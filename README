@@ -1,0 +1,7 @@
+"probe" is a library which aims to be useful in statistical endeavours.
+
+"probe" provides tools for data scraping of internet sites. Additional data can be imported via .xls.
+
+"probe" can store scraped data in .xls files.
+
+Although being in its first steps in the big world, "probe" can surely be used for interesting explorations!
