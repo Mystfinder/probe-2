@@ -1,6 +1,1 @@
 
-
-
-# pygal
-# cairocffi
-# cairosvg
